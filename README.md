@@ -1,6 +1,12 @@
 # Link Prediction
 Data and results of the second-year semester practice.
 
+## Problem statement
+it is necessary to predict the probability of collaboration between a pair of authors
+
+## Data
+The dataset contains information about the articles of the journal "Oil industry " written in the period from 2012 to 2017.
+
 ## Results
 Optimization was performed using the F3 metric.
 | Model               | Precision | Recall | ROCAUC | PRAUC | F3    |
