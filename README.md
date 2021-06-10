@@ -8,7 +8,7 @@ it is necessary to predict the probability of collaboration between a pair of au
 The dataset contains information about the articles of the journal "Oil industry" written in the period from 2012 to 2017.
 
 ## Results
-Optimization was performed using the F3 metric.
+Selection of hyperparameters was carried out according to the F3 measure.
 | Model               | Precision | Recall | ROCAUC | PRAUC | F3    |
 | :-------------:     |:---------:|:------:|:------:| :---: | :----:|
 | Logistic regression | 0.378     | 0.646  | 0.97   | 0.5   | 0.6   |
